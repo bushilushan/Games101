@@ -2,7 +2,7 @@
 
 #### B站视频
 
-[GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=cf8554ad53e526543e59141a5)739e72d
+[GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=cf8554ad53e526543e59141a5)
 
 #### 参考课堂笔记
 
