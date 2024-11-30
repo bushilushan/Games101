@@ -16,4 +16,4 @@
 
 #### 参考作业讲解
 
-[[Games101现代计算机图形学入门 - 作业1~8 集合含提高项总结 ](https://www.cnblogs.com/lawliet12/p/17719365.html)
+[Games101现代计算机图形学入门 - 作业1~8 集合含提高项总结 ](https://www.cnblogs.com/lawliet12/p/17719365.html)
