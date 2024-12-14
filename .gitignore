@@ -1,0 +1,9 @@
+#Directory
+.vs/
+games101/
+x64/
+#Files
+games101.sln
+games101.vcxproj
+games101.vcxproj.filters
+games101.vcxproj.user
